@@ -1,0 +1,6 @@
+{
+  "name": "Felice Industrial Equipment",
+  "description": "High-fidelity catalog and interactive calibration simulations for FELICE precision tire technology and workshop machinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
